@@ -1,0 +1,182 @@
+[
+  {
+    "Name": "Crimson Peak Beanie",
+    "Description": "A snug ribbed-knit beanie in Crimson Red with a soft pom-pom top, built to keep ice skaters warm on frozen mornings.",
+    "Price": 249,
+    "PictureUrl": "/images/products/crimson-peak-beanie.png",
+    "Type": "Beanie",
+    "Brand": "IceSkatebot",
+    "QuantityInStock": 84
+  },
+  {
+    "Name": "Arctic Blue Beanie",
+    "Description": "Double-layer fleece-lined beanie in Arctic Blue with a folded ribbed cuff for extra ear coverage on the rink.",
+    "Price": 249,
+    "PictureUrl": "/images/products/arctic-blue-beanie.png",
+    "Type": "Beanie",
+    "Brand": "IceSkatebot",
+    "QuantityInStock": 76
+  },
+  {
+    "Name": "Midnight Onyx Beanie",
+    "Description": "A stealthy all-black ribbed beanie with a stitched pom-pom, made for late-night ice sessions.",
+    "Price": 239,
+    "PictureUrl": "/images/products/midnight-onyx-beanie.png",
+    "Type": "Beanie",
+    "Brand": "IceSkatebot",
+    "QuantityInStock": 60
+  },
+  {
+    "Name": "Glacier White Beanie",
+    "Description": "Lightweight Glacier White beanie with breathable ribbing, matching any winter skate kit.",
+    "Price": 229,
+    "PictureUrl": "/images/products/glacier-white-beanie.png",
+    "Type": "Beanie",
+    "Brand": "IceSkatebot",
+    "QuantityInStock": 45
+  },
+  {
+    "Name": "Forest Green Beanie",
+    "Description": "Heavyweight knit beanie in Forest Green with a cosy pom-pom, designed for long days out on the ice.",
+    "Price": 249,
+    "PictureUrl": "/images/products/forest-green-beanie.png",
+    "Type": "Beanie",
+    "Brand": "IceSkatebot",
+    "QuantityInStock": 52
+  },
+  {
+    "Name": "Crimson Grip Gloves",
+    "Description": "Insulated Crimson Red gloves with a textured palm for a firmer grip on rails and edges.",
+    "Price": 329,
+    "PictureUrl": "/images/products/crimson-grip-gloves.png",
+    "Type": "Gloves",
+    "Brand": "IceSkatebot",
+    "QuantityInStock": 70
+  },
+  {
+    "Name": "Arctic Blue Gloves",
+    "Description": "Windproof Arctic Blue gloves with a reinforced thumb panel and a ribbed thermal cuff.",
+    "Price": 349,
+    "PictureUrl": "/images/products/arctic-blue-gloves.png",
+    "Type": "Gloves",
+    "Brand": "IceSkatebot",
+    "QuantityInStock": 58
+  },
+  {
+    "Name": "Midnight Onyx Gloves",
+    "Description": "Padded Midnight Onyx gloves built for impact protection during ice-skateboard tricks.",
+    "Price": 319,
+    "PictureUrl": "/images/products/midnight-onyx-gloves.png",
+    "Type": "Gloves",
+    "Brand": "IceSkatebot",
+    "QuantityInStock": 64
+  },
+  {
+    "Name": "Glacier White Gloves",
+    "Description": "Soft-shell Glacier White gloves with a brushed thermal lining for cold-weather comfort.",
+    "Price": 299,
+    "PictureUrl": "/images/products/glacier-white-gloves.png",
+    "Type": "Gloves",
+    "Brand": "IceSkatebot",
+    "QuantityInStock": 40
+  },
+  {
+    "Name": "Forest Green Gloves",
+    "Description": "Water-resistant Forest Green gloves with an adjustable wrist cuff for a locked-in fit.",
+    "Price": 339,
+    "PictureUrl": "/images/products/forest-green-gloves.png",
+    "Type": "Gloves",
+    "Brand": "IceSkatebot",
+    "QuantityInStock": 49
+  },
+  {
+    "Name": "Crimson Blaze Ice Skateboard",
+    "Description": "A Crimson Red ice-skateboard deck with reinforced steel trucks and grippy all-weather wheels.",
+    "Price": 1899,
+    "PictureUrl": "/images/products/crimson-blaze-skateboard.png",
+    "Type": "Skateboard",
+    "Brand": "IceSkatebot",
+    "QuantityInStock": 22
+  },
+  {
+    "Name": "Arctic Blue Ice Skateboard",
+    "Description": "Arctic Blue deck with a textured grip surface and precision trucks tuned for icy terrain.",
+    "Price": 1999,
+    "PictureUrl": "/images/products/arctic-blue-skateboard.png",
+    "Type": "Skateboard",
+    "Brand": "IceSkatebot",
+    "QuantityInStock": 18
+  },
+  {
+    "Name": "Midnight Onyx Ice Skateboard",
+    "Description": "Blacked-out Midnight Onyx deck with a low-profile stance built for stability on ice.",
+    "Price": 1799,
+    "PictureUrl": "/images/products/midnight-onyx-skateboard.png",
+    "Type": "Skateboard",
+    "Brand": "IceSkatebot",
+    "QuantityInStock": 27
+  },
+  {
+    "Name": "Glacier White Ice Skateboard",
+    "Description": "A clean Glacier White deck with reinforced rails and smooth-rolling cold-rated wheels.",
+    "Price": 1749,
+    "PictureUrl": "/images/products/glacier-white-skateboard.png",
+    "Type": "Skateboard",
+    "Brand": "IceSkatebot",
+    "QuantityInStock": 15
+  },
+  {
+    "Name": "Forest Green Ice Skateboard",
+    "Description": "Forest Green deck with a durable grip-taped surface, built tough for frozen park runs.",
+    "Price": 1899,
+    "PictureUrl": "/images/products/forest-green-skateboard.png",
+    "Type": "Skateboard",
+    "Brand": "IceSkatebot",
+    "QuantityInStock": 20
+  },
+  {
+    "Name": "Crimson Trail Boots",
+    "Description": "Insulated Crimson Red boots with a grooved sole for solid traction on ice and packed snow.",
+    "Price": 1299,
+    "PictureUrl": "/images/products/crimson-trail-boots.png",
+    "Type": "Boots",
+    "Brand": "IceSkatebot",
+    "QuantityInStock": 33
+  },
+  {
+    "Name": "Arctic Blue Boots",
+    "Description": "Waterproof Arctic Blue boots with a padded ankle collar and reinforced lace-up front.",
+    "Price": 1349,
+    "PictureUrl": "/images/products/arctic-blue-boots.png",
+    "Type": "Boots",
+    "Brand": "IceSkatebot",
+    "QuantityInStock": 29
+  },
+  {
+    "Name": "Midnight Onyx Boots",
+    "Description": "Rugged Midnight Onyx boots with a thick anti-slip sole for all-day ice-skateboard sessions.",
+    "Price": 1249,
+    "PictureUrl": "/images/products/midnight-onyx-boots.png",
+    "Type": "Boots",
+    "Brand": "IceSkatebot",
+    "QuantityInStock": 37
+  },
+  {
+    "Name": "Glacier White Boots",
+    "Description": "Lightweight Glacier White boots with a thermal inner lining and a durable moulded sole.",
+    "Price": 1199,
+    "PictureUrl": "/images/products/glacier-white-boots.png",
+    "Type": "Boots",
+    "Brand": "IceSkatebot",
+    "QuantityInStock": 24
+  },
+  {
+    "Name": "Forest Green Boots",
+    "Description": "Forest Green boots with reinforced toe caps and a deep-tread sole built for icy trails.",
+    "Price": 1299,
+    "PictureUrl": "/images/products/forest-green-boots.png",
+    "Type": "Boots",
+    "Brand": "IceSkatebot",
+    "QuantityInStock": 31
+  }
+]
