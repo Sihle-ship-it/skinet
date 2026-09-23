@@ -14,7 +14,7 @@
     "Price": 249,
     "PictureUrl": "/images/products/arctic-blue-beanie.png",
     "Type": "Beanie",
-    "Brand": "IceSkatebot",
+    "Brand": "Frostline",
     "QuantityInStock": 76
   },
   {
@@ -23,7 +23,7 @@
     "Price": 239,
     "PictureUrl": "/images/products/midnight-onyx-beanie.png",
     "Type": "Beanie",
-    "Brand": "IceSkatebot",
+    "Brand": "Polar Grip",
     "QuantityInStock": 60
   },
   {
@@ -32,7 +32,7 @@
     "Price": 229,
     "PictureUrl": "/images/products/glacier-white-beanie.png",
     "Type": "Beanie",
-    "Brand": "IceSkatebot",
+    "Brand": "Northbound",
     "QuantityInStock": 45
   },
   {
@@ -50,7 +50,7 @@
     "Price": 329,
     "PictureUrl": "/images/products/crimson-grip-gloves.png",
     "Type": "Gloves",
-    "Brand": "IceSkatebot",
+    "Brand": "Polar Grip",
     "QuantityInStock": 70
   },
   {
@@ -68,7 +68,7 @@
     "Price": 319,
     "PictureUrl": "/images/products/midnight-onyx-gloves.png",
     "Type": "Gloves",
-    "Brand": "IceSkatebot",
+    "Brand": "Frostline",
     "QuantityInStock": 64
   },
   {
@@ -77,7 +77,7 @@
     "Price": 299,
     "PictureUrl": "/images/products/glacier-white-gloves.png",
     "Type": "Gloves",
-    "Brand": "IceSkatebot",
+    "Brand": "Northbound",
     "QuantityInStock": 40
   },
   {
@@ -86,7 +86,7 @@
     "Price": 339,
     "PictureUrl": "/images/products/forest-green-gloves.png",
     "Type": "Gloves",
-    "Brand": "IceSkatebot",
+    "Brand": "Summit & Co",
     "QuantityInStock": 49
   },
   {
@@ -104,7 +104,7 @@
     "Price": 1999,
     "PictureUrl": "/images/products/arctic-blue-skateboard.png",
     "Type": "Skateboard",
-    "Brand": "IceSkatebot",
+    "Brand": "Summit & Co",
     "QuantityInStock": 18
   },
   {
@@ -113,7 +113,7 @@
     "Price": 1799,
     "PictureUrl": "/images/products/midnight-onyx-skateboard.png",
     "Type": "Skateboard",
-    "Brand": "IceSkatebot",
+    "Brand": "Polar Grip",
     "QuantityInStock": 27
   },
   {
@@ -122,7 +122,7 @@
     "Price": 1749,
     "PictureUrl": "/images/products/glacier-white-skateboard.png",
     "Type": "Skateboard",
-    "Brand": "IceSkatebot",
+    "Brand": "Frostline",
     "QuantityInStock": 15
   },
   {
@@ -140,7 +140,7 @@
     "Price": 1299,
     "PictureUrl": "/images/products/crimson-trail-boots.png",
     "Type": "Boots",
-    "Brand": "IceSkatebot",
+    "Brand": "Northbound",
     "QuantityInStock": 33
   },
   {
@@ -149,7 +149,7 @@
     "Price": 1349,
     "PictureUrl": "/images/products/arctic-blue-boots.png",
     "Type": "Boots",
-    "Brand": "IceSkatebot",
+    "Brand": "Polar Grip",
     "QuantityInStock": 29
   },
   {
@@ -167,7 +167,7 @@
     "Price": 1199,
     "PictureUrl": "/images/products/glacier-white-boots.png",
     "Type": "Boots",
-    "Brand": "IceSkatebot",
+    "Brand": "Summit & Co",
     "QuantityInStock": 24
   },
   {
@@ -176,7 +176,7 @@
     "Price": 1299,
     "PictureUrl": "/images/products/forest-green-boots.png",
     "Type": "Boots",
-    "Brand": "IceSkatebot",
+    "Brand": "Frostline",
     "QuantityInStock": 31
   }
 ]
